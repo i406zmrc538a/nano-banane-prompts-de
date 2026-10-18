@@ -12,7 +12,7 @@
 
 > **from $0.0125 per image** — ein einziger OpenAI-kompatibler Endpoint unter `https://api.apimart.ai/v1`, kein Monatsabo nötig. *(erfasst am 2026-10-12)*
 
-**[Get an API key](https://go.apimart.ai/k-40311b)** · **[Live pricing](https://go.apimart.ai/k-5fbd6c)** · **[Model page](https://go.apimart.ai/k-469f79)** · [⚡ 60-second quickstart](#quickstart)
+**[Get an API key](https://go.apimart.ai/k-ccaa8e)** · **[Live pricing](https://go.apimart.ai/k-c6aa3c)** · **[Model page](https://go.apimart.ai/k-2ded9b)** · [⚡ 60-second quickstart](#quickstart)
 
 **Warum Teams Nano Banana (`gemini-2.5-flash-image-preview`) über APIMart nutzen**
 
@@ -111,14 +111,13 @@ That is the point. Keep the structure (subject + light + framing + setting + fin
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
 | --- | --- | --- |
-| Model page | <https://go.apimart.ai/k-469f79> | `apimart.ai/de/model/nano-banana-api` |
-| Live pricing | <https://go.apimart.ai/k-5fbd6c> | `apimart.ai/de/pricing` |
-| Get an API key | <https://go.apimart.ai/k-40311b> | `apimart.ai/de/keys` |
+| Model page | <https://go.apimart.ai/k-2ded9b> | `apimart.ai/de/model/nano-banana-api` |
+| Live pricing | <https://go.apimart.ai/k-c6aa3c> | `apimart.ai/de/pricing` |
+| Get an API key | <https://go.apimart.ai/k-ccaa8e> | `apimart.ai/de/keys` |
 
 Outbound APIMart links are minted through the promo link API; hand-made tracking parameters are rejected by
 `tools/check_links.py` in CI.
